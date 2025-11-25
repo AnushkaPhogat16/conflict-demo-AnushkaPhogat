@@ -1,3 +1,3 @@
 def greet():
-    # original line we'll edit in two branches
-    print("Hello from main branch")
+    # edit in the second branch to force a conflict issue for our Q
+    print("Hello from the second  branch")
