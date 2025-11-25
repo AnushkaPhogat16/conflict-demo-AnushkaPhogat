@@ -1,3 +1,3 @@
 def greet():
-    # original line we'll edit in two branches
-    print("Hello from main branch")
+    # edit in branch again
+    print("Hello from a diff branch")
